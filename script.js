@@ -26,6 +26,7 @@ const formName = document.getElementById("form-name");
 const formMonth = document.getElementById("form-month");
 const formYear = document.getElementById("form-year");
 const formCvc = document.getElementById("form-cvc");
+const nameError = document.getElementById("name-error");
 const cardNumber = document.getElementById("card-number");
 const cardName = document.getElementById("card-name");
 const cardMonth = document.getElementById("card-month");
